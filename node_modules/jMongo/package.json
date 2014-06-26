@@ -1,0 +1,14 @@
+{
+  "name": "jMongo",
+  "description": "MongoDB interface using the native mongo driver",
+  "main": "./jMongo",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Josh Elias"
+  },
+  "dependencies": {
+    "async": "~0.7.0",
+    "mongodb": "~1.4.7"
+  }
+}
